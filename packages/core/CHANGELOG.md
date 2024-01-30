@@ -1,5 +1,11 @@
 # xstate
 
+## 5.6.1
+
+### Patch Changes
+
+- [#4694](https://github.com/statelyai/xstate/pull/4694) [`0b6dff210`](https://github.com/statelyai/xstate/commit/0b6dff21069bb168b46c943653e445ff3daa5d63) Thanks [@davidkpiano](https://github.com/davidkpiano)! - Add `UnknownMachineConfig` type
+
 ## 5.6.0
 
 ### Minor Changes
